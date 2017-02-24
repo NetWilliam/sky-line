@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>sky-line</title>
   
-  <link href="/blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.sky-line.net/"/>
   <updated>2017-02-03T12:30:59.204Z</updated>
