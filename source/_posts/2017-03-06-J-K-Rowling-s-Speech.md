@@ -4,7 +4,7 @@ date: 2017-03-06 02:40:43
 tags: Speech
 ---
 
-J.K. Rowling's Speech At Commencement of Harvard University (excerpt)
+##J.K. Rowling's Speech At Commencement of Harvard University (excerpt)
 
 ...
 I would like to make it clear, in parenthesis, that I do not blame my parents for their point of view. There is an expiry date on blaming your parents for steering you in the wrong direction; the moment you are old enough to take the wheel, responsibility lies with you. What is more, I cannot criticise my parents for hoping that I would never experience poverty. They had been poor themselves, and I have since been poor, and I quite agree with them that it is not an ennobling experience. Poverty entails fear, and stress, and sometimes depression; it means a thousand petty humiliations and hardships. Climbing out of poverty by your own efforts, that is indeed something on which to pride yourself, but poverty itself is romanticised only by fools.
