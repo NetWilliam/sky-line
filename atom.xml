@@ -54,7 +54,7 @@
     <link href="http://blog.sky-line.net/2017/03/01/Gettysburg-Address/"/>
     <id>http://blog.sky-line.net/2017/03/01/Gettysburg-Address/</id>
     <published>2017-02-28T16:11:03.000Z</published>
-    <updated>2017-02-28T16:29:30.543Z</updated>
+    <updated>2017-03-05T18:46:54.657Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Gettysburg-Address"><a href="#Gettysburg-Address" class="headerlink" title="Gettysburg Address"></a>Gettysburg Address</h2><p>Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.</p>
 <p>Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.</p>
@@ -68,6 +68,10 @@
     </summary>
     
     
+      <category term="BornToWin" scheme="http://blog.sky-line.net/tags/BornToWin/"/>
+    
+      <category term="Speech" scheme="http://blog.sky-line.net/tags/Speech/"/>
+    
   </entry>
   
   <entry>
@@ -75,7 +79,7 @@
     <link href="http://blog.sky-line.net/2017/02/28/Invictus/"/>
     <id>http://blog.sky-line.net/2017/02/28/Invictus/</id>
     <published>2017-02-28T15:56:34.000Z</published>
-    <updated>2017-02-28T16:10:25.454Z</updated>
+    <updated>2017-03-05T18:47:39.786Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Invictus"><a href="#Invictus" class="headerlink" title="Invictus"></a>Invictus</h2><p>Out of night that covers me,<br>Black as the pit from pole to pole,<br>I thank whatever the god maybe<br>For my unconquerable soul.</p>
 <p>In the fell clutch of circumstance<br>I have not winced nor cried aloud.<br>Under the bludgeoning of chance<br>My head is bloody, but unbowed.</p>
@@ -90,7 +94,7 @@
     </summary>
     
     
-      <category term="poem" scheme="http://blog.sky-line.net/tags/poem/"/>
+      <category term="Poem" scheme="http://blog.sky-line.net/tags/Poem/"/>
     
   </entry>
   
