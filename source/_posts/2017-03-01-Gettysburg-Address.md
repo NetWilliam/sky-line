@@ -1,7 +1,9 @@
 ---
 title: Gettysburg Address
 date: 2017-03-01 00:11:03
-tags: 
+tags:
+    - Speech
+    - BornToWin
 ---
 
 ## Gettysburg Address
